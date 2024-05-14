@@ -1,3 +1,4 @@
+/*	Question Set 1 - Easy */
 /* Q1: who is the senior most employee based in job title? */
 
 select employee_id, last_name, first_name, title, levels from employee
